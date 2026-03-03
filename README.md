@@ -1,10 +1,10 @@
-# 🛡️ AI Compliance & Cybersecurity Insights
+# AI Compliance & Cybersecurity Insights
 
 > A living knowledge base built by a cybersecurity learner/enthusiast — documenting key concepts, frameworks, case studies, and takeaways from real-world sessions, research, and hands-on learning.
 
 ---
 
-## 👋 About This Repository
+## About This Repository
 
 Hi! I'm **Bhavithra SR** — an MSc Cybersecurity student (University of Hertfordshire, placement year) with hands-on experience in incident management, security operations, and enterprise environments.
 
@@ -16,7 +16,7 @@ If you're a fellow student, practitioner, or just curious about the intersection
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 ai-compliance-insights/
@@ -35,7 +35,7 @@ ai-compliance-insights/
 
 ---
 
-## 📚 Topics Covered
+## Topics Covered
 
 | Area | Status |
 |---|---|
@@ -50,7 +50,7 @@ ai-compliance-insights/
 
 ---
 
-## 🧠 Latest Entry
+## Latest Entry
 
 ### BCS Session — AI Compliance: Navigating the New Risk Landscape
 **Speaker:** Bianca Chipanga | **Host:** University of Hertfordshire × BCS – The Chartered Institute for IT
@@ -63,7 +63,7 @@ ai-compliance-insights/
 
 ---
 
-## 🚀 How to Use This Repo
+## How to Use This Repo
 
 - **Students** — Use the frameworks folder as revision notes or essay reference
 - **Practitioners** — Use case studies for awareness training or risk discussions
@@ -71,10 +71,10 @@ ai-compliance-insights/
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 All content is based on publicly available information, academic sessions, and personal learning. Nothing here constitutes legal or professional compliance advice.
 
 ---
 
-*Last updated: March 2026 — continuously growing* 🌱
+*Last updated: March 2026 — continuously growing* 
